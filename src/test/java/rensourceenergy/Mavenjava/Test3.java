@@ -18,7 +18,12 @@ public class Test3 {
 		
 		System.out.println("Option7");		
 	}
-
+	@Test
+	public void postonJira(){
+		
+		System.out.println("posting in everywhere ");	
+		System.out.println("posting in everywhere3 ");
+		System.out.println("posting in everywhere 2");
 }
 
 
