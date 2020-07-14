@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="5" passed="5">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="41" started-at="2020-07-06T03:35:58Z" finished-at="2020-07-06T03:35:58Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="41" started-at="2020-07-06T03:35:58Z" finished-at="2020-07-06T03:35:58Z">
+      <class name="rensourceenergy.Mavenjava.Test4">
+        <test-method status="PASS" signature="one()[pri:0, instance:rensourceenergy.Mavenjava.Test4@614c5515]" name="one" duration-ms="8" started-at="2020-07-06T03:35:58Z" finished-at="2020-07-06T03:35:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- one -->
+      </class> <!-- rensourceenergy.Mavenjava.Test4 -->
+      <class name="rensourceenergy.Mavenjava.Test1">
+        <test-method status="PASS" signature="option1()[pri:0, instance:rensourceenergy.Mavenjava.Test1@2d554825]" name="option1" duration-ms="0" started-at="2020-07-06T03:35:58Z" finished-at="2020-07-06T03:35:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- option1 -->
+        <test-method status="PASS" signature="option2()[pri:0, instance:rensourceenergy.Mavenjava.Test1@2d554825]" name="option2" duration-ms="1" started-at="2020-07-06T03:35:58Z" finished-at="2020-07-06T03:35:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- option2 -->
+      </class> <!-- rensourceenergy.Mavenjava.Test1 -->
+      <class name="rensourceenergy.Mavenjava.Test2">
+        <test-method status="PASS" signature="option3()[pri:0, instance:rensourceenergy.Mavenjava.Test2@77b52d12]" name="option3" duration-ms="1" started-at="2020-07-06T03:35:58Z" finished-at="2020-07-06T03:35:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- option3 -->
+        <test-method status="PASS" signature="option4()[pri:0, instance:rensourceenergy.Mavenjava.Test2@77b52d12]" name="option4" duration-ms="1" started-at="2020-07-06T03:35:58Z" finished-at="2020-07-06T03:35:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- option4 -->
+      </class> <!-- rensourceenergy.Mavenjava.Test2 -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
